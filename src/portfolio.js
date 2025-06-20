@@ -390,7 +390,7 @@ const degrees = {
     {
       title: "Makerere University",
       subtitle: "M.Sc. in Computer Science",
-      logo_path: "makerere.jpg",
+      logo_path: "Mak-Logo.png",
       alt_name: "Makerere University",
       duration: "2022 - 2024",
       descriptions: [
@@ -403,7 +403,7 @@ const degrees = {
     {
       title: "Makerere University",
       subtitle: "B.Sc. in Computer Science",
-      logo_path: "makerere.jpg",
+      logo_path: "Mak-Logo.png",
       alt_name: "Makerere University",
       duration: "2010 - 2015",
       descriptions: [
@@ -619,9 +619,9 @@ const contactPageData = {
     country: "Uganda",
     region: "Central Region",
     postalCode: "10217",
-    streetAddress: "Wandegeya",
+    streetAddress: "Kisozi Complex",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link: "https://maps.app.goo.gl/p9N1ZCZsPbEk2wCZ6",
   },
   phoneSection: {
     title: "",
